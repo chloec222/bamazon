@@ -10,7 +10,7 @@ var connection = mysql.createConnection({
 host     : 'localhost',
 port     : 3306,
 user     : 'root',
-  password : '', //later change to ""
+  password : '',
 database : 'bamazon'
 });
 
@@ -31,7 +31,7 @@ function start(){
     inquirer.prompt([{
         name: "choice",
         type: "rawlist",
-        message: "What would you like to do?", //why aren't you displaying???
+        message: "What would you like to do?", 
         choices: [
             "View Products",
             "Search for Products",
