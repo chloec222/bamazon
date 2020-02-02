@@ -203,4 +203,3 @@ function addProduct() {
       startPrompt();
     });
   }
-© 2020 GitHub, Inc.
