@@ -42,25 +42,25 @@ Applications Used:
 
 #### CASE 2: `VIEW PRODUCTS` WITH SUFFICIENT STOCK OF SELECTED ITEM
 *choice to select specific item from inventory
-![Image of stock1]((/images/stock1.png)
+![Image of stock1](/images/stock1.png)
 
 
 *selected item in stock
-![Image of stock2]((/images/stock2.png)
+![Image of stock2](/images/stock2.png)
 
 
 *options to either buy or return to main opening prompt
-![Image of stock3]((/images/stock3.png)
+![Image of stock3](/images/stock3.png)
 
 
 
 #### CASE 3: `BUY PRODUCTS` WITHOUT NEEDING TO `VIEW PRODUCTS` FIRST
 *selected item to be purchased right away
-![Image of buy]((/images/buy.png)
+![Image of buy](/images/buy.png)
 
 
 #### CASE 4: `CANCEL`TO EXIT BAMAZON ONLINE STOREFRONT
 *exit out of bamazon immediately
-![Image of cancel]((/images/cancel.png)
+![Image of cancel](/images/cancel.png)
 
 
