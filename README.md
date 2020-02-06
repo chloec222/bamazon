@@ -61,7 +61,7 @@ Applications Used:
 ![Image of cancel](/images/cancel.png)
 
 
-#--------------------------------------------------------------------------------------------------------------------------------#
+--------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### BAMAZON-MANAGER MAIN STOREFRONT | *[view products for sale], [view low inventory], [add to inventory] or [add new product]* |
