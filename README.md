@@ -61,3 +61,29 @@ Applications Used:
 ![Image of cancel](/images/cancel.png)
 
 
+#--------------------------------------------------------------------------------------------------------------------------------#
+
+
+### BAMAZON-MANAGER MAIN STOREFRONT | *[view products for sale], [view low inventory], [add to inventory] or [add new product]* |
+![Image of lowstock1](/images/manage1.png)
+
+
+#### CASE 1: `VIEW PRODUCTS FOR SALE` 
+- **Displays current inventory**
+![Image of lowstock1](/images/manage2.png)
+
+
+#### CASE 2: `VIEW LOW INVENTORY` 
+- **Displays products with low inventory**
+![Image of stock1](/images/manage3.png)
+
+
+#### CASE 3: `ADD TO INVENTORY` 
+- **Allows manager to add more units to existing product in inventory**
+![Image of buy](/images/manage4.png)
+
+
+#### CASE 4: `ADD NEW PRODUCT`
+- **Allow manager to add new product to inventory**
+![Image of cancel](/images/manage5.png)
+
