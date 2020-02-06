@@ -85,5 +85,5 @@ Applications Used:
 
 #### CASE 4: `ADD NEW PRODUCT`
 - **Allow manager to add new product to inventory**
-![Image of cancel](/images/manage5.png)
+![Image of cancel](/images/manager5.png)
 
