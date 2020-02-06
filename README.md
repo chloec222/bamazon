@@ -10,13 +10,13 @@ Applications Used:
 
 
 **Bamazon will take in a specific command and render results based on the specified command.**
-### bamazonCustomer
+### BAMAZON-CUSTOMER
 - view products
 - buy products
 - cancel/exit
 
 
-### bamazonManager
+### BAMAZON-MANAGER
 - view products for sale
 - view low inventory
 - add to inventory
