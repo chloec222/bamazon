@@ -29,7 +29,7 @@ Applications Used:
 
 #### CASE 1: `VIEW PRODUCTS` WITH INSUFFICENT STOCK OF SELECTED ITEM 
 - **Step 1: choose specific item from inventory**
-![Image of lowstock1](/images/lowstock1.png)
+![Image of lowstock1](/images/lowstock11.png)
 
 - **Step 2: item low in stock**
 ![Image of lowstock2](/images/lowstock2.png)
