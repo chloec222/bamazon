@@ -10,7 +10,7 @@ Applications Used:
 
 
 **Bamazon will take in a specific command and render results based on the specified command.**
-###bmazonCustomer
+### bamazonCustomer
 - view products
 - buy products
 - cancel/exit
