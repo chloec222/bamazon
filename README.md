@@ -80,7 +80,7 @@ Applications Used:
 
 #### CASE 3: `ADD TO INVENTORY` 
 - **Allows manager to add more units to existing product in inventory**
-![Image of manage4](/images/manage4.png)
+![Image of manage44](/images/manage44.png)
 
 
 #### CASE 4: `ADD NEW PRODUCT`
